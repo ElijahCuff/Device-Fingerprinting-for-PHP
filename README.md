@@ -26,11 +26,9 @@ JavaScript + PHP project to assist in Device Fingerprinting.
      
    
 Example Response,    
-`{    
-    "Canvas Fingerprint": "1585552575",    
-    "Browser Fingerprint": "d9de46aa60100957b387f6839f707a71ebe492c099b5842178d8949090601f98",    
-    "Agent Fingerprint": "66c1c292285d728ed86b2cd1b69b059837da77d1f45f12cac799275ba54d610b"    
-}`   
+`"Canvas Fingerprint": "1585552575"`   
+    `"Browser Fingerprint": "d9de46aa60100957b387f6839f707a71ebe492c099b5842178d8949090601f98"`   
+    `"Agent Fingerprint": "66c1c292285d728ed86b2cd1b69b059837da77d1f45f12cac799275ba54d610b"`   
 
  
 
